@@ -6,6 +6,9 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+#box {
+  border: 2px;
+}
 button,
 input[type="text"] {
   padding: 5px;
